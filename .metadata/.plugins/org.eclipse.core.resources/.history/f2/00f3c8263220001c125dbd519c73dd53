@@ -1,0 +1,14 @@
+package com.erikalves.cursomc.service;
+
+import org.springframework.stereotype.Service;
+
+import com.erikalves.cursomc.domain.Categoria;
+
+@Service
+public class CategoriaService {
+
+	private CategoriaRepository repo;
+	public Categoria buscar() {
+		
+	}
+}

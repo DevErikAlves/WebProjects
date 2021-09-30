@@ -1,0 +1,5 @@
+package com.erikalves.cursomc.domain;
+
+public class Categoria {
+
+}

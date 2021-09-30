@@ -1,0 +1,5 @@
+package com.erikalves.cursomc.repositories;
+
+public class CategoriaRepository {
+
+}

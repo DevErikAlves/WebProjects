@@ -1,0 +1,5 @@
+package com.erikalves.cursomc.service;
+
+public class CategoriaService {
+
+}

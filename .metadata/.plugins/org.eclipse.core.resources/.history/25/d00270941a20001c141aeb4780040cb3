@@ -1,0 +1,10 @@
+package com.erikalves.cursomc.domain;
+
+public class Categoria {
+	
+	private Integer id;
+	private String nome;
+	
+	public Categoria() {}
+
+}
